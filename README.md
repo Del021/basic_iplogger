@@ -9,6 +9,7 @@ Set a valid iplogger.org tracking URL, for example:
 
 [ * ] Commands: ```echo ‘https://iplogger.org/logger/yW1W4HX6W9eV/’ > url.dat```
 
-By entering the link correctly, if you try to run run.py, you will be able to access successfully: 
+By entering the link correctly, if you try to run run.py, you will be able to access successfully:
+
 [ * ] Commands: ```python3 run.py```
 
