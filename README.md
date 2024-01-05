@@ -8,12 +8,23 @@ Set a valid iplogger.org tracking URL, for example:
 
 ~Suggestion: If you want to use a different URL than the one suggested, you can do so, just change the various interactions that b4s performs along with the lines of code related to the iplogger page.
 
+The first thing we need to do is clone the repository.
+
+```
+git clone https://github.com/Del021/basic_iplogger.git
+```
+
+
 [ * ] Commands: 
-\`\`\`
+
+```
 echo ‘https://iplogger.org/logger/yW1W4HX6W9eV/’ > url.dat
-\`\`\`
+```
 By entering the link correctly, if you try to run run.py, you will be able to access successfully:
 
-[ * ] Commands: ```python3 run.py```
+[ * ] Commands: 
+```
+python3 run.py
+```
 
 For any suggestions or feedback, I would appreciate it if you could let me know. 
